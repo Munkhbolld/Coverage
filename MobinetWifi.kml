@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mobinet WiFi location 2024</name>
+	<gx:CascadingStyle kml:id="__managed_style_1AC941148D2F48BD979C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2016&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C0485AEAF2F48BD979C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AC941148D2F48BD979C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_026284FD342F48BD979D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_23D6E927922F48288C6F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2312&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FF867971D2F48288C6F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2312&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B2F44FE4E2F48288C71">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2312&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FF0098DD62F48288C65">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_145041CF672F48288C71">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2312&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_276C249C232F48288C72">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2054&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17884640842F48288C72">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2054&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4FC8E74D112F48288C6D">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2054&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_29DF0082A22F48288C6D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2370&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_289D887C822F48288C67">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2377&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_054C6840602F48288C65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FF0098DD62F48288C65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23D0ABC80E2F48288C65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0B98FF12DC2F48288C6D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18B9D0D9ED2F48288C6D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29DF0082A22F48288C6D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_18B9D0D9ED2F48288C6D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2370&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_32118E6A4E2F48288C6D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4FC8E74D112F48288C6D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5A6ADD79622F48288C6D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5A6ADD79622F48288C6D">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2054&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0EF5D9D2FA2F48288C6C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F1B0E191A2F48288C6B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09FDB993322F48288C6B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F1B0E191A2F48288C6B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0EF5D9D2FA2F48288C6C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0B2DAFBE2C2F48288C6F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FF867971D2F48288C6F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23D6E927922F48288C6F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_12B6DD77192F48288C67">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2377&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_085B5202962F48288C72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17884640842F48288C72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_276C249C232F48288C72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_23D0ABC80E2F48288C65">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E317299822F48288C71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_145041CF672F48288C71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B2F44FE4E2F48288C71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_026284FD342F48BD979D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2016&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.5</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FBA5A624A2F48288C67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12B6DD77192F48288C67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_289D887C822F48288C67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="036592A7D32F2910AFDF">
+		<name>Сургууль</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="0D2AFB8F212F290D224A">
+			<name>41-р сургууль WiFi</name>
+			<description><![CDATA[<div>4ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8176095426798</longitude>
+				<latitude>47.86975218139476</latitude>
+				<altitude>1292.591896002627</altitude>
+				<heading>3.773187790527369</heading>
+				<tilt>48.62529572346941</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>439.0519667265471</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.8180562341075,47.86951312842888,1295.429274144232</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07FDD17ABE2F2919E16D">
+			<name>Анагаах төв байр WiFi</name>
+			<description><![CDATA[<div>17ш AP <br></div><div>4ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.922419515853</longitude>
+				<latitude>47.91540370332219</latitude>
+				<altitude>1295.632642301557</altitude>
+				<heading>-7.383717394200996</heading>
+				<tilt>11.59402018045205</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>301.2060917342387</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9229097168666,47.91563546702878,1297.382356514398</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="08C52D19592F2971AB92">
+			<name>ХААИС төв байр</name>
+			<description><![CDATA[<div>16ш AP <br></div><div>3ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.909672137551</longitude>
+				<latitude>47.88684348746909</latitude>
+				<altitude>1302.682572599793</altitude>
+				<heading>-3.421975780608186</heading>
+				<tilt>36.07583327456069</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>543.6222490476212</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9094232253094,47.88628609376051,1306.450903526314</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0811ED61EF2F297419E7">
+			<name>ХААИС ЭЗ сургууль WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9092652163536</longitude>
+				<latitude>47.88121605788569</latitude>
+				<altitude>1326.28156679921</altitude>
+				<heading>-2.134169065085195</heading>
+				<tilt>35.64760721275834</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>458.4939860423037</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9094522972842,47.88098850895192,1328.513282744691</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="026422177A2F29759FBF">
+			<name>ХААИС Мал эмнэлэг сургууль WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9094679208905</longitude>
+				<latitude>47.88311162927835</latitude>
+				<altitude>1317.535521950196</altitude>
+				<heading>-2.134185375466532</heading>
+				<tilt>35.64800306402861</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>534.0399341443117</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9101437787544,47.88318903108454,1317.959592697508</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FE07A28402F29780DCA">
+			<name>ХААИС Номын сан</name>
+			<description><![CDATA[<div>1ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9076035220567</longitude>
+				<latitude>47.88495804243701</latitude>
+				<altitude>1309.079980818295</altitude>
+				<heading>-2.134134236942236</heading>
+				<tilt>35.64676132365833</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>297.0586689272022</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9077606917849,47.88521099011122,1309.670065110915</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D3458FEF62F298A7094">
+			<name>Хууль Сахиулах сургууль WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>4ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9944705308592</longitude>
+				<latitude>47.91449410204461</latitude>
+				<altitude>1316.28840150307</altitude>
+				<heading>-0.04110305635798806</heading>
+				<tilt>4.868820835681698</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>428.0138668074505</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9955553553561,47.91463600414012,1317.319763689221</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E8790012D2F2994874D">
+			<name>КТМС сургууль WiFi</name>
+			<description><![CDATA[<div>9ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9423321883205</longitude>
+				<latitude>47.92723485354259</latitude>
+				<altitude>1334.265285616547</altitude>
+				<heading>-2.544750915452299</heading>
+				<tilt>11.254878534803</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>479.6670011886454</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9433082643686,47.9272912403252,1340.821721275286</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0395E9C5742F4756F584">
+			<name>МУБИС Төв байр WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>3 Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9251252421682</longitude>
+				<latitude>47.91867220276784</latitude>
+				<altitude>1298.025807593363</altitude>
+				<heading>-7.261969055676032</heading>
+				<tilt>25.57642967863421</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>349.5268899450821</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9251917509683,47.91874202941914,1299.671174328681</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="009DD257582F47D02DC4">
+			<name>МУБИС ДҮТС WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9241137970641</longitude>
+				<latitude>47.91870665782724</latitude>
+				<altitude>1298.510303820735</altitude>
+				<heading>-9.734296627955409</heading>
+				<tilt>13.7484056388905</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>258.6587871687152</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9245338940171,47.9187530427982,1299.677485223565</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B7C5C66172F47D247DF">
+			<name>МУБИС Гадаад хэл WiFi</name>
+			<description><![CDATA[<div>3ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.924778487167</longitude>
+				<latitude>47.91891162217612</latitude>
+				<altitude>1298.032400504223</altitude>
+				<heading>-9.733603162956479</heading>
+				<tilt>13.74855405583025</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>328.1165593588958</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9258407081412,47.91916469614821,1300.458610316583</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="011B81EC672F47D34B51">
+			<name>МУБИС Багшийн сургууль WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>2ш Switch<br></div><div><br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.924778487167</longitude>
+				<latitude>47.91891162217612</latitude>
+				<altitude>1298.032400504223</altitude>
+				<heading>-9.733603162956479</heading>
+				<tilt>13.74855405583025</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>328.1165593588958</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9242162242852,47.91932347837049,1300.213790436065</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0811C9B2692F47D72E85">
+			<name>МУБИС 5-р байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9247265354021</longitude>
+				<latitude>47.91906838358898</latitude>
+				<altitude>1298.525563457592</altitude>
+				<heading>-9.733206035809349</heading>
+				<tilt>13.74870446051946</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>398.5046108545795</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9240980572804,47.91846060681372,1299.17148813572</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09A16A70642F47E5108E">
+			<name>МУБИС 4-р байр WiFi</name>
+			<description><![CDATA[<div>15ш AP <br></div><div>2ш Switch<br></div><div><br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.9285863997789</longitude>
+				<latitude>47.91951785409282</latitude>
+				<altitude>1298.526802127974</altitude>
+				<heading>-9.715770305279733</heading>
+				<tilt>13.74860208839674</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>350.5954004531668</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9295657605742,47.91991694635399,1300.493111920793</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0296B4812F2F47E6785A">
+			<name>МҮИС WiFi</name>
+			<description><![CDATA[<div>19ш AP <br></div><div>4ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8916071307744</longitude>
+				<latitude>47.92450016018197</latitude>
+				<altitude>1329.80569184523</altitude>
+				<heading>-25.53592905397378</heading>
+				<tilt>16.29717257949873</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>595.0373494833912</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.8922968951886,47.92496441921603,1331.191710942284</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D761BBECB2F47FC22E9">
+			<name>СЭЗИС WiFi</name>
+			<description><![CDATA[<div>17ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9308466196007</longitude>
+				<latitude>47.91873607562919</latitude>
+				<altitude>1298.790013892227</altitude>
+				<heading>-4.938990040488654</heading>
+				<tilt>24.67990278641241</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>259.7389328316785</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9307739171291,47.91868887492465,1300.099732536322</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="077158E6D82F47FEA3B0">
+			<name>ШУТИС МТС WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8939866151835</longitude>
+				<latitude>47.9006184076593</latitude>
+				<altitude>1285.013496899865</altitude>
+				<heading>-4.221245779802375</heading>
+				<tilt>7.357044652832609</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>478.7811996963137</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.894175863901,47.90103174192686,1286.535937853026</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0327396AEB2F4800EA9E">
+			<name>ШУТИС 1 WiFi</name>
+			<description><![CDATA[<div>18ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.923481406617</longitude>
+				<latitude>47.92167304691448</latitude>
+				<altitude>1299.834691861183</altitude>
+				<heading>-4.221248308468405</heading>
+				<tilt>7.357075261484452</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>505.3691510258797</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9234758332932,47.92199360964327,1302.40512501504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02995ECCAB2F4801D261">
+			<name>ШУТИС 2 WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9234814065748</longitude>
+				<latitude>47.92167304697084</latitude>
+				<altitude>1299.834691862598</altitude>
+				<heading>-4.221248308686619</heading>
+				<tilt>7.357075261542771</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>505.3691510258795</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9243809,47.9220461,1302.40512501504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E359687262F48026DFB">
+			<name>ШУТИС Номын сан WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9235899293379</longitude>
+				<latitude>47.92174206396442</latitude>
+				<altitude>1300.247582034125</altitude>
+				<heading>-4.221248269652111</heading>
+				<tilt>7.357074782026966</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>504.9528349861795</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9243562563691,47.9217924493195,1302.771012665286</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BB25A17482F48038CAD">
+			<name>ШУТИС Дизайн сургууль WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9219666649541</longitude>
+				<latitude>47.92508485015177</latitude>
+				<altitude>1302.730022569444</altitude>
+				<heading>-4.221232371343181</heading>
+				<tilt>7.356879729721634</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>335.5304475989033</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.922291175176,47.92506142877508,1304.041116027624</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09488381032F4804A71C">
+			<name>СУИС сургууль WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9141699614308</longitude>
+				<latitude>47.92611535258655</latitude>
+				<altitude>1301.634450956485</altitude>
+				<heading>-7.25173998801182</heading>
+				<tilt>5.917902014609239</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>419.7582376914944</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9137009332233,47.92620659671481,1303.634504459279</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D0781D11D2F4809FD54">
+			<name>Төмөр зам дээд сургууль WiFi</name>
+			<description><![CDATA[<div>14ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8842416614448</longitude>
+				<latitude>47.91535760325983</latitude>
+				<altitude>1284.366566765395</altitude>
+				<heading>2.609841507754536</heading>
+				<tilt>41.93754887668426</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>315.7679052616004</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.8841174072448,47.91567038348155,1286.559768634595</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B84A11F0E2F481FBAA3">
+			<name>Дархан ХААИС WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>105.9718490032069</longitude>
+				<latitude>49.45762259961312</latitude>
+				<altitude>710.2487065947473</altitude>
+				<heading>0.0002029630246822236</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>568.3846399412142</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>105.9726770801717,49.45822989614641,710.5220663812696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03EB6F7DF52F48250855">
+			<name>Дархан ШУТИС WiFi</name>
+			<description><![CDATA[<div>9ш AP <br></div><div>2ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>105.9756504110843</longitude>
+				<latitude>49.45861633463563</latitude>
+				<altitude>712.6377044526162</altitude>
+				<heading>0.0001124488282683389</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>568.5033092499361</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>105.9768289320145,49.45851218843131,714.8000801593556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04F76829EF2F48335C9F">
+			<name>Эрдэнэт ШУТИС WiFi</name>
+			<description><![CDATA[<div>16ш AP <br></div><div>3ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>104.0619891479298</longitude>
+				<latitude>49.03072937783443</latitude>
+				<altitude>1335.864459276582</altitude>
+				<heading>0.03626967713399826</heading>
+				<tilt>27.83241112673049</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>462.4525345921575</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>104.062399383031,49.03123243854029,1336.112290322976</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D965ADD0C2F482F1471">
+			<name>Дорнод МУИС сургууль</name>
+			<description><![CDATA[<div>17ш AP <br></div><div>2ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>114.5289505731655</longitude>
+				<latitude>48.07792696350583</latitude>
+				<altitude>746.581847674968</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>428.6103191493748</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>114.5294218293846,48.07817110774534,747.3509243084417</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BBD9E18D82F4836FDC6">
+			<name>Хэнтий МСҮТ WiFi</name>
+			<description><![CDATA[<div>15ш AP <br></div><div>2ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>110.673654887266</longitude>
+				<latitude>47.32940918725437</latitude>
+				<altitude>1029.12986114772</altitude>
+				<heading>-9.839649927629594</heading>
+				<tilt>21.88722704952556</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>525.4034970708746</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>110.6731009713457,47.32987650121888,1029.104564774664</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A2685638B2F484A0A3D">
+			<name>Ховд Их сургууль WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>91.64483656019127</longitude>
+				<latitude>48.00291389476318</latitude>
+				<altitude>1399.685782746561</altitude>
+				<heading>-1.597729645798973e-05</heading>
+				<tilt>0.2937481340907936</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>463.5301538967907</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>91.64550559217375,48.00301643944837,1400.80799381429</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="046F4EFCC82F4845C488">
+			<name>Ховд 1-р сургууль WiFi</name>
+			<description><![CDATA[<div>3ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>91.64238362120956</longitude>
+				<latitude>48.00125291350053</latitude>
+				<altitude>1398.367370746807</altitude>
+				<heading>-1.597822539529748e-05</heading>
+				<tilt>0.2937640306557666</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>807.757508925861</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>91.64307268668352,48.00194687744906,1402.86879345838</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="028E725CDA2F4848823D">
+			<name>Ховд 7-р сургууль</name>
+			<description><![CDATA[<div>2ш AP<br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>91.64897210912264</longitude>
+				<latitude>47.98602834868026</latitude>
+				<altitude>1416.690025099065</altitude>
+				<heading>-1.597648754270108e-05</heading>
+				<tilt>0.2937446363895205</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>387.3237832786253</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>91.6488030174001,47.98623179981697,1418.814688878399</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="079D7039B22F4887CBE1">
+			<name>Завхан МУИС WiFi </name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.83213806053875</longitude>
+				<latitude>47.74613090171361</latitude>
+				<altitude>1746.443925651497</altitude>
+				<heading>0.0003156861971104647</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>636.111114992018</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>96.8333911141673,47.74665384534785,1754.603807178247</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0060E3069F2F488B0C73">
+			<name>Завхан МСҮТ сургууль WiFi</name>
+			<description><![CDATA[<div>14ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.84847680949458</longitude>
+				<latitude>47.73599450297911</latitude>
+				<altitude>1756.654238871326</altitude>
+				<heading>0.0003146558420177272</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>689.4751734027523</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>96.84871323043073,47.73584623988625,1757.564058738689</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AF9F40D512F4890FBBC">
+			<name>Завхан Жаргалан сургууль WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.85349515265526</longitude>
+				<latitude>47.75016903732534</latitude>
+				<altitude>1779.132554244056</altitude>
+				<heading>0.000313062625884224</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>521.8981169437029</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>96.85390791186222,47.75057051800333,1784.168803275358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E24E245B32F4C09C262">
+			<name>ШУТИС МИС Дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP&nbsp;<br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.8949774126174</longitude>
+				<latitude>47.90047002661577</latitude>
+				<altitude>1284.448360035384</altitude>
+				<heading>-4.04815714762602</heading>
+				<tilt>10.93944300960072</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>628.9086759909696</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.8939738356935,47.90049502313048,1286.508820424382</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="0F4C8BCD2E2F29127C3A">
+		<name>Оюутны дотуур байр</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="06F369F37A2F2911718C">
+			<name>Архангай МУБИС Дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>101.4547833799926</longitude>
+				<latitude>47.47355639927542</latitude>
+				<altitude>1705.739347626693</altitude>
+				<heading>2.609824410560613</heading>
+				<tilt>8.581312514315361</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>404.4409503130011</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>101.4546587459606,47.4733445638331,1707.888288654614</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="006DDA80542F2917A8D0">
+			<name>Анагаах 2-р дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9302030864897</longitude>
+				<latitude>47.9162401489759</latitude>
+				<altitude>1296.609950646666</altitude>
+				<heading>-3.447121713741884</heading>
+				<tilt>8.98201914065063</tilt>
+				<gx:fovy>34.99999074142172</gx:fovy>
+				<range>343.550893614156</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9306828737735,47.91636371040994,1299.185020192328</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EC1D3D8672F2961A3B9">
+			<name>ШУТИС Гадаад оюутны байр WiFi</name>
+			<description><![CDATA[<div> 8ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.9210495859287</longitude>
+				<latitude>47.92714984322481</latitude>
+				<altitude>1304.99920414006</altitude>
+				<heading>-5.994850215692599</heading>
+				<tilt>11.45723512163216</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>425.6726047857228</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9219851113688,47.92701205375236,1305.493417245903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CC860CE552F29642C2C">
+			<name>Анагаах 3-р оюутны байр WiFi</name>
+			<description><![CDATA[<div>8ш AP 1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9227601688821</longitude>
+				<latitude>47.92751559143435</latitude>
+				<altitude>1305.405313299174</altitude>
+				<heading>-5.991204778886646</heading>
+				<tilt>11.45763796605904</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>651.2475243851077</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9228782959064,47.92731926662625,1306.605740921306</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="012461EAA22F2979C076">
+			<name>ХААИС 1-р оюутны байр WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9052694175377</longitude>
+				<latitude>47.88682635335904</latitude>
+				<altitude>1299.382996340706</altitude>
+				<heading>-2.134154108245447</heading>
+				<tilt>35.64724362676543</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>389.1034984230646</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9060691160903,47.88717376456707,1300.593265907011</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0573CEEE382F297D642F">
+			<name>ХААИС 2-р оюутны байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9058097544627</longitude>
+				<latitude>47.88717058287138</latitude>
+				<altitude>1298.778219286669</altitude>
+				<heading>-2.134194518205488</heading>
+				<tilt>35.64822462819739</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>576.3228750115377</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9053128170967,47.88761102596089,1299.152002602673</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DE9E011162F297D14F3">
+			<name>ХААИС 3-р оюутны байр WiFi</name>
+			<description><![CDATA[<div>5ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9058097543782</longitude>
+				<latitude>47.88717058287138</latitude>
+				<altitude>1298.778219285254</altitude>
+				<heading>-2.134194518347184</heading>
+				<tilt>35.64822462819953</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>576.3228750115377</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.905526660111,47.88677335944634,1301.838822713347</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A1E802BA92F29967FC5">
+			<name>КТМС Дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9423412776332</longitude>
+				<latitude>47.92826584496094</latitude>
+				<altitude>1338.689182980577</altitude>
+				<heading>-2.544750527472225</heading>
+				<tilt>11.25487061926026</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>475.156362222042</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9431331003618,47.92836549656425,1341.545978185425</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02E2F4B9D62F47D4F0DE">
+			<name>МУБИС Дотуур байр WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.92367872395</longitude>
+				<latitude>47.91900824803627</latitude>
+				<altitude>1297.540953874438</altitude>
+				<heading>-9.733699903544329</heading>
+				<tilt>13.74907053586825</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>569.8243860582443</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.927374521005,47.91941299767475,1300.818217907541</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D1E7B05C52F47ED8B21">
+			<name>Оюутны өргөө 2 WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>3ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.93088542432</longitude>
+				<latitude>47.91721015553865</latitude>
+				<altitude>1298.025544390955</altitude>
+				<heading>-4.188458273941989</heading>
+				<tilt>22.23204821941881</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>515.2050288661849</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9311424102114,47.91687308118851,1299.473793287748</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F756E0E302F47F25743">
+			<name>Оюутны өргөө 1 WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>3ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9308498558045</longitude>
+				<latitude>47.91712385573758</latitude>
+				<altitude>1298.00075114005</altitude>
+				<heading>-4.188458281142709</heading>
+				<tilt>22.23204831048765</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>515.2318685262436</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9310498596076,47.91771398627696,1299.507141381794</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09C24456B62F47F3FC20">
+			<name>СЭЗИС Дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.9303395880603</longitude>
+				<latitude>47.9176666226226</latitude>
+				<altitude>1297.628383257844</altitude>
+				<heading>-4.188374445826622</heading>
+				<tilt>22.23101170861363</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>210.5019936509416</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9304122345848,47.91765499595475,1299.181950929618</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03F95981612F47F5E70F">
+			<name>МУБИС 1-р дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9304148289013</longitude>
+				<latitude>47.91745664893886</latitude>
+				<altitude>1297.755553307622</altitude>
+				<heading>-7.162498040072546</heading>
+				<tilt>20.87769065860463</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>364.0177104856048</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9307189435726,47.91756734505974,1299.503206377129</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05A11015FF2F47F6F329">
+			<name>Анагаах 1-р дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9307003765919</longitude>
+				<latitude>47.91700881532618</latitude>
+				<altitude>1297.865995138675</altitude>
+				<heading>-7.162569025835529</heading>
+				<tilt>20.877704591503</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>368.3661294342892</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9307869065926,47.91707374308358,1299.691360254476</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05ECA153B62F47F7A9D7">
+			<name>МУБИС 2-р дотуур байр WiFi</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.930700376613</longitude>
+				<latitude>47.91700881532618</latitude>
+				<altitude>1297.865969839103</altitude>
+				<heading>-7.16256902578311</heading>
+				<tilt>20.87770459150121</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>368.3661294342892</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9314250063607,47.91711341714251,1299.524634905341</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FD9DE73862F4820DC5C">
+			<name>Дархан ХААИС дотуур байр WiFi</name>
+			<description><![CDATA[<div>16ш AP <br></div><div>3ш Switch<br></div><div><br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>105.9710392851039</longitude>
+				<latitude>49.4570216911957</latitude>
+				<altitude>709.3622825128261</altitude>
+				<heading>0.0002029127382986685</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>569.2710904063279</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>105.9707133927075,49.45687870223167,712.212665857104</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EF5B8F1B62F484BAC35">
+			<name>Ховд дотуур байр WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>91.64539847828148</longitude>
+				<latitude>48.00096412440904</latitude>
+				<altitude>1400.762911142736</altitude>
+				<heading>-1.597814498220757e-05</heading>
+				<tilt>0.2937502973403266</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>510.6132683018224</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>91.64563622839168,48.00132208114299,1401.938616605036</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B658FD7392F48278505">
+			<name>Дархан ШУТИС дотуур байр WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>105.9760795120352</longitude>
+				<latitude>49.45942993362581</latitude>
+				<altitude>711.9970158190268</altitude>
+				<heading>0.0001122119740931104</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>547.509039749857</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>105.9768026379592,49.45964567317792,712.8029379023591</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0473F4C9762F48893B86">
+			<name>Завхан МУИС дотуур байр</name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.8320557933226</longitude>
+				<latitude>47.74620202521341</latitude>
+				<altitude>1746.821098787334</altitude>
+				<heading>0.0003156688788976222</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>635.7339690952358</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>96.83220849560502,47.74693996706385,1751.756850830467</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="07A6ED270C2F290D0719">
+		<name>Эмнэлэг</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="048D731F4E2F2901E87E">
+			<name>3-р эмнэлэг WiFi</name>
+			<description><![CDATA[<div>22ш AP <br></div><div>11ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8572160024133</longitude>
+				<latitude>47.91385713340817</latitude>
+				<altitude>1278.584979060725</altitude>
+				<heading>-2.205631690681562</heading>
+				<tilt>32.28254437021584</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>343.1610232153253</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.8571707978967,47.91424454055531,1280.452896798259</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C24571E3A2F28FF28C1">
+			<name>1-р төрөх эмнэлэг WiFi</name>
+			<description><![CDATA[<div>11ш AP <br></div><div>4ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9269962514713</longitude>
+				<latitude>47.91754482046</latitude>
+				<altitude>1298.668831364429</altitude>
+				<heading>-5.186553163001055</heading>
+				<tilt>26.46864120044888</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>537.6455342111149</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.9276200742285,47.91770376231973,1299.64697582842</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="016899381E2F28FA3EBE">
+			<name>1-р Эмнэлэг WiFi</name>
+			<description><![CDATA[<div>23ш Access point<br></div><div>7ш switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9240130737649</longitude>
+				<latitude>47.91624569012283</latitude>
+				<altitude>1295.951846701038</altitude>
+				<heading>-6.3423959876481</heading>
+				<tilt>38.24105185695077</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>294.7034539906599</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.9244865406921,47.9164026583698,1297.468063793935</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EFE69FDD82F2955A7FC">
+			<name>Эх нялхас WiFi</name>
+			<description><![CDATA[<div>12ш AP <br></div><div>7ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8899863346394</longitude>
+				<latitude>47.92694173606898</latitude>
+				<altitude>1340.673092911182</altitude>
+				<heading>353.1708163227775</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>445.7421807817445</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.890874045092,47.92734647256701,1340.465317177403</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0109E75D632F297011CC">
+			<name>Гурван гал эмнэлэг WiFi</name>
+			<description><![CDATA[<div>14ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.889891805192</longitude>
+				<latitude>47.92477341375566</latitude>
+				<altitude>1332.441293370666</altitude>
+				<heading>-5.840934350918745</heading>
+				<tilt>24.83359896912905</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>213.2203320366534</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.8899946802508,47.92483430774841,1334.127063333552</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06884781AF2F480D1EE7">
+			<name>Архангай нэгдсэн эмнэлэг WiFi</name>
+			<description><![CDATA[<div>10ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>101.4491137562644</longitude>
+				<latitude>47.47459788707646</latitude>
+				<altitude>1713.996808924523</altitude>
+				<heading>-0.3377227833796227</heading>
+				<tilt>32.64441313846008</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>411.0669160627731</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>101.4487356121997,47.47486286628996,1718.692702983522</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03D650E19A2F481B45CA">
+			<name>Багануур сувилал WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>108.3690393225705</longitude>
+				<latitude>47.77948672717973</latitude>
+				<altitude>1361.435045112356</altitude>
+				<heading>-7.401427625787426</heading>
+				<tilt>17.17877757809597</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>360.877400725949</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>108.3691021327135,47.77953326626178,1362.643448997085</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="065F64D97D2F487ECC63">
+			<name>Увс Улаангом эмнэлэг WiFi</name>
+			<description><![CDATA[<div>9ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>92.07074922735916</longitude>
+				<latitude>49.98125500838459</latitude>
+				<altitude>931.9398823630314</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>803.1526761954592</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>92.07298950897626,49.98204405599972,931.956859594356</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01B9FD13892F487FC0F1">
+			<name>Увс Улаангом төрөх эмнэлэг WiFi</name>
+			<description><![CDATA[<div>3ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>92.07117079515372</longitude>
+				<latitude>49.98189402793071</latitude>
+				<altitude>931.0462708416262</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>596.7394660251739</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>92.07293845969598,49.98247905349333,932.0418271566614</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F12D4B5852F4886B445">
+			<name>Завхан Нэгдсэн Эмнэлэг WiFi</name>
+			<description><![CDATA[<div><div>Завхан Нэгсэн эмнэлэг<br></div><div>8ш AP <br></div><div>1ш Switch<br></div></div><div>Завхан Халварт 1ш&nbsp;AP<br></div><div>Завхан Сүрьеэ 2ш&nbsp;AP<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>96.84267523916608</longitude>
+				<latitude>47.74078231891811</latitude>
+				<altitude>1754.237824502221</altitude>
+				<heading>0.0003158327865893992</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>369.4820381330646</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>96.84289330257705,47.74071472361445,1757.50465789591</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B902BB1562F29090685">
+			<name>3-р төрөх WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>3ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9675219553339</longitude>
+				<latitude>47.91515498503215</latitude>
+				<altitude>1308.599221561498</altitude>
+				<heading>10.095390310402</heading>
+				<tilt>44.51124677062917</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>465.8137036961125</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>106.968002845457,47.91477845731204,1308.86834784768</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E874093202F48930FC5">
+			<name>Завхан Төрөх WiFi</name>
+			<description><![CDATA[<div>5ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.84291703190871</longitude>
+				<latitude>47.74041388308276</latitude>
+				<altitude>1756.232134287015</altitude>
+				<heading>0.0003129426912284496</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>390.3203687446512</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>96.84354620635757,47.74023758049956,1757.782221428787</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="0FECA207942F29822BF5">
+		<name>Амралтын газар</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="08DCAB4A102F297FAF38">
+			<name>ҮСАХ WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9213128047281</longitude>
+				<latitude>47.91011647019758</latitude>
+				<altitude>1289.3117778885</altitude>
+				<heading>-2.134243086717731</heading>
+				<tilt>35.6494003506385</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>800.7027112327341</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B98FF12DC2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9222463459702,47.90911069289765,1291.138582764133</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E9CD263F62F48355DF5">
+			<name>Говь Алтай төв талбай WiFi</name>
+			<description><![CDATA[<div>3ш AP <br></div><div>1ш Switch<br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>96.25375020682198</longitude>
+				<latitude>46.37106583078096</latitude>
+				<altitude>2165.47654863546</altitude>
+				<heading>-12.99412170303388</heading>
+				<tilt>1.907515461856144</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>978.715759934712</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B98FF12DC2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>96.25369610828733,46.37226426044902,2165.246457237088</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02F18DA6C92F487B9487">
+			<name>Увс Улаангом төв талбай WiFi</name>
+			<description><![CDATA[<div>3ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>92.06817954051905</longitude>
+				<latitude>49.97990774491558</latitude>
+				<altitude>933.0534988320305</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>508.100352979236</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B98FF12DC2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>92.06910346375393,49.98027907254125,934.4613236476006</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0802D8FE862F4884DF7E">
+			<name>Завхан Их уул WiFi</name>
+			<description><![CDATA[<div>3ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>98.79615293152024</longitude>
+				<latitude>48.71788580003007</latitude>
+				<altitude>1646.220713331224</altitude>
+				<heading>0.0003162041498212745</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1945.548457388068</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B98FF12DC2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>98.79584094489059,48.71798872036289,1648.062708271499</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C82010F312F48B8D4CE">
+			<name>Цэнгэг хүрээ WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>106.8666479680435</longitude>
+				<latitude>48.05316797149413</latitude>
+				<altitude>1539.399935053493</altitude>
+				<heading>10.61283993606083</heading>
+				<tilt>27.94736075581567</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>818.0701499849968</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B98FF12DC2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8657614098714,48.05350847051438,1549.140505342794</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="0B1E88629E2F29A1F8E0">
+		<name>Мобиком салбар</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="0861B320222F29A15866">
+			<name>Мобиком салбар Сансар WiFi</name>
+			<LookAt>
+				<longitude>106.9424058418337</longitude>
+				<latitude>47.92295742216136</latitude>
+				<altitude>1318.608985760525</altitude>
+				<heading>-0.8158480659124983</heading>
+				<tilt>35.12468910792845</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>307.7518398126267</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.942739611451,47.92286903104188,1320.756630641716</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EEEFCA10F2F29A8AAFA">
+			<name>Мобиком салбар Цамбагарав WiFi</name>
+			<LookAt>
+				<longitude>106.8436179672831</longitude>
+				<latitude>47.91271085384308</latitude>
+				<altitude>1276.870724108554</altitude>
+				<heading>-0.001112174836721595</heading>
+				<tilt>1.652413598786851</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>913.2349624858762</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8455565135096,47.9128233372383,1278.152515035141</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="022C93E4902F29B03844">
+			<name>Мобиком салбар 3,4 хороолол</name>
+			<LookAt>
+				<longitude>106.8766223991513</longitude>
+				<latitude>47.92277081101031</latitude>
+				<altitude>1325.547589911189</altitude>
+				<heading>354.6969378676929</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>772.7664262380131</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8818160845883,47.92326810036761,1327.524994423428</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DBC4F7E552F29AF2FE4">
+			<name>Мобиком 11-р хороолол</name>
+			<LookAt>
+				<longitude>106.9264900590647</longitude>
+				<latitude>47.92799115588952</latitude>
+				<altitude>1305.228872720622</altitude>
+				<heading>354.7376979621319</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>515.2360404941282</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.927198519353,47.92778529633713,1307.367966904258</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="041FDB58DA2F29AA8BF5">
+			<name>Мобиком салбар 10-р хороолол WiFi</name>
+			<LookAt>
+				<longitude>106.8670919692745</longitude>
+				<latitude>47.91456336519011</latitude>
+				<altitude>1280.367231781656</altitude>
+				<heading>-0.001112177586298439</heading>
+				<tilt>1.652328634262347</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>585.5020387515834</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8663745051147,47.91464913924018,1282.496595869063</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0847E1DAD12F29B17336">
+			<name>Мобиком салбар E-mart WiFi</name>
+			<LookAt>
+				<longitude>106.932883531036</longitude>
+				<latitude>47.92244250828337</latitude>
+				<altitude>1302.528292895821</altitude>
+				<heading>354.7303746913543</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>774.8902823777462</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9341967448887,47.92305115271895,1304.863366639341</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="054E6B1E452F29B4CF48">
+			<name>Мобиком МПМ</name>
+			<LookAt>
+				<longitude>106.9280584294229</longitude>
+				<latitude>47.91307859741993</latitude>
+				<altitude>1295.473006332745</altitude>
+				<heading>354.7232077322202</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>515.769449765794</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9290501082499,47.91324299813476,1296.663656829204</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0282B593AC2F29B55353">
+			<name>Мобиком ТСБ</name>
+			<LookAt>
+				<longitude>106.91334556311</longitude>
+				<latitude>47.91775188618329</latitude>
+				<altitude>1296.255790810095</altitude>
+				<heading>354.7131166872491</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>266.0489879021771</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9132029866895,47.91778222146938,1298.371951919072</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="097E444BE62F2D3F8FD6">
+			<name>Мобиком Архангай Салбар WiFi</name>
+			<LookAt>
+				<longitude>101.4541047706964</longitude>
+				<latitude>47.4759777031232</latitude>
+				<altitude>1701.34514434226</altitude>
+				<heading>8.265651445480339</heading>
+				<tilt>8.329807710965213</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>274.4694329271807</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>101.4545818705633,47.47596730549029,1704.224016769825</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0722CB6FEB2F2D4196AC">
+			<name>Мобиком Баян-Өлгий салбар WiFi</name>
+			<LookAt>
+				<longitude>89.96555688584203</longitude>
+				<latitude>48.96852865560164</latitude>
+				<altitude>1713.578008537306</altitude>
+				<heading>5.528472788997623e-05</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>583.6210838531406</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>89.96578592310027,48.96877163767873,1716.068804401939</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F426BE10E2F2D4684D2">
+			<name>Мобиком Хэнтий салбар</name>
+			<LookAt>
+				<longitude>109.4252907372951</longitude>
+				<latitude>46.25416833775613</latitude>
+				<altitude>1298.661200074766</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>530.5842004349688</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>109.4257968068331,46.25392213576437,1299.346633503039</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E3AD3E6FE2F2D4BE8B8">
+			<name>Мобиком Ховд салбар WiFi</name>
+			<LookAt>
+				<longitude>91.542388521558</longitude>
+				<latitude>46.09327362973023</latitude>
+				<altitude>1181.911858621201</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>923.9883487744376</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>91.54428804700453,46.09384093043514,1184.766169687889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="08CACB82F22F2D65D0C4">
+			<name>Мобиком Дорнод салбар</name>
+			<LookAt>
+				<longitude>114.522187645191</longitude>
+				<latitude>48.06979514062348</latitude>
+				<altitude>745.2350933827</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>877.8304377806489</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>114.5225978159737,48.06981358786895,745.4834436774523</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00EB03CAC92F2D689B93">
+			<name>Мобиком Дундговь салбар</name>
+			<LookAt>
+				<longitude>106.2725327742976</longitude>
+				<latitude>45.76485827039318</latitude>
+				<altitude>1428.792070447377</altitude>
+				<heading>359.9999991404968</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>421.4157141769101</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.2730245732864,45.76484944000201,1431.351045464407</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AC442DB9F2F2D6C3CC1">
+			<name>Мобиком Завхан салбар WiFi</name>
+			<description><![CDATA[<div><div>3ш AP <br></div><div>1ш Switch<br></div></div><div><br></div>]]></description>
+			<LookAt>
+				<longitude>96.84069007996027</longitude>
+				<latitude>47.74165501298216</latitude>
+				<altitude>1752.032285889175</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>699.662701780544</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>96.84191560360011,47.74191220037147,1756.089594592913</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0907CB56A92F2D6F1093">
+			<name>Мобиком Зуун-мод салбар</name>
+			<LookAt>
+				<longitude>106.9503455740265</longitude>
+				<latitude>47.70779677095573</latitude>
+				<altitude>1518.977403849182</altitude>
+				<heading>4.136582725349016</heading>
+				<tilt>36.73857931281634</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>528.0254861760477</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9508987954666,47.70801207822042,1520.78665595757</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0C41D7DEBC2F2D846A45">
+			<name>Мобиком Сэлэнгэ салбар</name>
+			<LookAt>
+				<longitude>106.4585118783996</longitude>
+				<latitude>48.85418397636264</latitude>
+				<altitude>870.1700537937718</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>554.6980357432768</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.459353553193,48.85415513453955,872.6679255229562</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02E5654C3F2F2D8631AB">
+			<name>Мобиком Өвөрхангай салбар</name>
+			<LookAt>
+				<longitude>102.7770767413599</longitude>
+				<latitude>46.26371134000129</latitude>
+				<altitude>1834.907418122656</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>544.9626559737953</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>102.7780903356133,46.26430225013999,1838.603771289072</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01BC72C3402F47157832">
+			<name>Мобиком Хөвсгөл Салбар WiFi</name>
+			<LookAt>
+				<longitude>100.165808245756</longitude>
+				<latitude>49.64404750038364</latitude>
+				<altitude>1294.548229885023</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>367.1775589615208</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>100.1658014438319,49.64410365750241,1296.130596477884</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="00F60C94A52F4717C8B5">
+			<name>Мобиком Сайншанд салбар WiFi</name>
+			<LookAt>
+				<longitude>110.1369244058473</longitude>
+				<latitude>44.89426812434722</latitude>
+				<altitude>960.0612170153794</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>997.0608298279694</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>110.1395176758311,44.89451562517755,964.1466287049992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="050A2B64C42F47276B66">
+			<name>Мобиком Сүхбаатар салбар WiFi</name>
+			<LookAt>
+				<longitude>113.2804091360357</longitude>
+				<latitude>46.68264357924744</latitude>
+				<altitude>992.5212637249109</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>505.1936038883287</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>113.2809290882232,46.6827871673991,995.0224908292088</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="032FCC07FD2F474B9B70">
+			<name>Мобиком Өмнөговь Салбар WiFi</name>
+			<LookAt>
+				<longitude>104.4277420375597</longitude>
+				<latitude>43.57421340180547</latitude>
+				<altitude>1464.41136975887</altitude>
+				<heading>6.983815819493161</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>805.2482093087749</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>104.4297648833568,43.57415338220496,1463.951427089188</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01BE3A00532F474DEB0B">
+			<name>Мобиком Эрдэнэт Салбар WiFi</name>
+			<LookAt>
+				<longitude>104.0515337075439</longitude>
+				<latitude>49.03002652048682</latitude>
+				<altitude>1345.817172935187</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>345.3949961296166</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>104.0519526817789,49.03007932390182,1345.239197052511</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F3F46552C2F474FCD37">
+			<name>Мобиком Увс Салбар WiFi</name>
+			<LookAt>
+				<longitude>92.06860163218826</longitude>
+				<latitude>49.97943177767663</latitude>
+				<altitude>933.0943632781157</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>521.2929498244193</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>92.06952074336687,49.97933237417444,934.3172770470015</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="081AC4DEC92F47534C56">
+			<name>Мобиком Багануур Салбар WiFi</name>
+			<LookAt>
+				<longitude>108.3659772716933</longitude>
+				<latitude>47.77971445637021</latitude>
+				<altitude>1364.980333521931</altitude>
+				<heading>-7.044175226939462</heading>
+				<tilt>14.72868738712572</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>747.2643454384526</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>108.366092422218,47.78012565120511,1365.971354042365</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="044FCA92FB2F484D6B16">
+			<name>Мобиком Ховд WiFi</name>
+			<LookAt>
+				<longitude>91.64259074664548</longitude>
+				<latitude>48.00280089922744</latitude>
+				<altitude>1398.254999200948</altitude>
+				<heading>-1.597682715360489e-05</heading>
+				<tilt>0.2937534499606773</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>579.2611456375744</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>91.64249377321592,48.00280269775023,1399.900117818004</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CDA6CBA1C2F485551F7">
+			<name>Мобиким Алтанбулаг Сэлэнгэ салбар </name>
+			<LookAt>
+				<longitude>106.4998680358435</longitude>
+				<latitude>50.3120083404364</latitude>
+				<altitude>693.9569559511741</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>34.99999999999839</gx:fovy>
+				<range>1405.986738327483</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.4991122269434,50.31236930653542,692.5734526207772</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0099A4A7E52F485ACECD">
+			<name>Мобиком Сэлэнгэ Хөтөл WiFi</name>
+			<LookAt>
+				<longitude>105.5511875440519</longitude>
+				<latitude>49.09643693076475</latitude>
+				<altitude>863.1165722244413</altitude>
+				<heading>13.79211452039516</heading>
+				<tilt>29.2576137507177</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>941.0229571998934</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>105.5518718320524,49.0970617181696,865.8288480955224</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04C05EB4272F485BD9BB">
+			<name>Мобиком Сэлэнгэ Сүхбаатар WiFi</name>
+			<LookAt>
+				<longitude>106.2051997634607</longitude>
+				<latitude>50.23863005604158</latitude>
+				<altitude>629.0886299181369</altitude>
+				<heading>0.00324493838659737</heading>
+				<tilt>0.3481234157522994</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>876.1235466533981</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0E317299822F48288C71</styleUrl>
+			<Point>
+				<coordinates>106.2064622695779,50.23926101232003,635.7474061786619</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DE7B25D9C2F4C3D2687">
+			<name>Мобиком Оюу Толгой салбар WiFi</name>
+			<LookAt>
+				<longitude>106.8160789435569</longitude>
+				<latitude>43.04731956728141</latitude>
+				<altitude>1195.480299513173</altitude>
+				<heading>359.9999864949237</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>4126.220124562969</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8146372052842,43.04789366309418,1196.820446122613</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0228998B112F4C3ECD00">
+			<name>Мобиком Амгалан салбар WiFi</name>
+			<LookAt>
+				<longitude>107.0146058663537</longitude>
+				<latitude>47.90651604291644</latitude>
+				<altitude>1318.326746133597</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>938.4619251810363</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>107.0169230014117,47.90664156592243,1320.041315909848</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FA49E89AC2F4C409DB9">
+			<name>Мобиком Кино үйлдвэр салбар WiFi</name>
+			<LookAt>
+				<longitude>106.9470180834537</longitude>
+				<latitude>47.91872301725294</latitude>
+				<altitude>1311.838715151079</altitude>
+				<heading>357.9482013534603</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>986.8638913448378</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9517479643271,47.91794211370743,1307.594453703967</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09CFE654732F4C42BDEF">
+			<name>Мобиком Шинэ нисэх салбар WiFi</name>
+			<LookAt>
+				<longitude>106.8171915139828</longitude>
+				<latitude>47.65072747614759</latitude>
+				<altitude>1369.193019521544</altitude>
+				<heading>351.8024428714683</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1929.948449652584</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8213904578331,47.65191502343161,1377.146514901586</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="0C2F5D48AE2F291C72B7">
+		<name>Худалдааны төв</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="00F7F0D9022F29491E49">
+			<name>Бөмбөгөр WiFi</name>
+			<description><![CDATA[<div>32ш AP <br></div><div>5ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8995997086831</longitude>
+				<latitude>47.9191771839744</latitude>
+				<altitude>1295.662648925083</altitude>
+				<heading>-11.54942351951204</heading>
+				<tilt>33.54946071394082</tilt>
+				<gx:fovy>34.99999999999839</gx:fovy>
+				<range>432.7540567181131</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9001806149323,47.91940352314312,1297.23683429891</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A1DE871BC2F2956F80E">
+			<name>Элбэг их дэлгүүр WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8860880341545</longitude>
+				<latitude>47.92256133335606</latitude>
+				<altitude>1319.597278935327</altitude>
+				<heading>1.453750266077769</heading>
+				<tilt>28.40615866299384</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>547.6909375496326</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.885962976582,47.92272148558197,1321.5799247876</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="042B2CD3382F2965715A">
+			<name>Гэгээнтэн WiFi</name>
+			<description><![CDATA[<div>5ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.908466085297</longitude>
+				<latitude>47.8972355565222</latitude>
+				<altitude>1288.190538378653</altitude>
+				<heading>-0.6659788227543465</heading>
+				<tilt>36.83984274649345</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>367.3351666371673</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9087615828811,47.89716193812844,1290.221496770398</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FB8F50DA22F296EAD6D">
+			<name>Гранд Плаза WiFi</name>
+			<description><![CDATA[<div>28ш AP <br></div><div>4ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8900247830145</longitude>
+				<latitude>47.91477899389486</latitude>
+				<altitude>1285.805663984619</altitude>
+				<heading>-0.665982473735824</heading>
+				<tilt>36.84012522004367</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>419.7342256985577</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.8905722713129,47.91457732280833,1288.72009806113</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05D7E5945E2F2991482F">
+			<name>Ай Ти Парк WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9216662104712</longitude>
+				<latitude>47.92167870166365</latitude>
+				<altitude>1300.532626386821</altitude>
+				<heading>5.582637903237187e-09</heading>
+				<tilt>15.18229196181853</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1040.032933434559</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9224375,47.921555,1301.933176728393</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CB5CA98782F299D57D6">
+			<name>Мишээл экспо WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8852557883422</longitude>
+				<latitude>47.8940409419153</latitude>
+				<altitude>1284.107327384771</altitude>
+				<heading>-0.004782254791380033</heading>
+				<tilt>37.52306945388726</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>888.480081134476</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.885040449065,47.89387885631696,1285.401866997455</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02B09C7C532F47E7B739">
+			<name>Шөнийн зах ХТ WiFi</name>
+			<description><![CDATA[<div>9ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9431229282108</longitude>
+				<latitude>47.90938800837945</latitude>
+				<altitude>1293.851063823273</altitude>
+				<heading>-0.5611760047741611</heading>
+				<tilt>6.340679690243716</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>586.1659379076447</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9440247014152,47.90965023368414,1296.437077594936</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="037FB5470D2F291C631B">
+			<name>Баялаг Ундраа ХТ WiFi</name>
+			<description><![CDATA[<div>16ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9459570993509</longitude>
+				<latitude>47.90950721932632</latitude>
+				<altitude>1295.951704475118</altitude>
+				<heading>359.1020158081838</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>415.7059589298296</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9461596722392,47.90955101218735,1297.691657374101</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F08A7B9B92F2947DEAA">
+			<name>Вокзал WiFi</name>
+			<description><![CDATA[<div>9ш AP <br></div><div>2ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8835147626614</longitude>
+				<latitude>47.90881918751161</latitude>
+				<altitude>1282.600230608671</altitude>
+				<heading>-0.0005593074404758123</heading>
+				<tilt>7.500519380186787</tilt>
+				<gx:fovy>34.99999999998447</gx:fovy>
+				<range>687.2750166059268</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.8838973,47.9084945,1284.889850928242</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EEED9BBB62F294A8032">
+			<name>Дүнжингарав ХТ WiFi</name>
+			<description><![CDATA[<div>5ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9479283727293</longitude>
+				<latitude>47.90609122494948</latitude>
+				<altitude>1293.042283856076</altitude>
+				<heading>5.1382857619153</heading>
+				<tilt>30.13345277317758</tilt>
+				<gx:fovy>34.99999999999999</gx:fovy>
+				<range>944.1311659844359</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9469954437252,47.90594811974721,1294.488694025425</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06341932A92F47EC8882">
+			<name>Органик фүүдс ХТ WiFi</name>
+			<description><![CDATA[<div>2ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8945185457431</longitude>
+				<latitude>47.89230833094818</latitude>
+				<altitude>1285.875053285009</altitude>
+				<heading>-1.07141652921141</heading>
+				<tilt>23.04256382494186</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>286.863955493609</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.8945568997491,47.89231554621232,1287.266629347409</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="081CB7DF482F47F8C645">
+			<name>Пийс молл WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9015412922331</longitude>
+				<latitude>47.91612387922459</latitude>
+				<altitude>1292.219201930793</altitude>
+				<heading>-5.306846722435849</heading>
+				<tilt>27.08401058474083</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>431.0561584994139</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9022723187457,47.91623685146133,1294.752608783024</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0D3639DA362F480711D8">
+			<name>Сандей(Sunday) ХТ WiFi</name>
+			<description><![CDATA[<div>33ш AP <br></div><div>7ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9438660585487</longitude>
+				<latitude>47.91108809529182</latitude>
+				<altitude>1293.6060723739</altitude>
+				<heading>-3.497500112702218</heading>
+				<tilt>33.56194389581611</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>523.0924122835131</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>106.9440092320585,47.91105370503391,1295.192222877992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01224D903F2F4808AF26">
+			<name>Теди U1 ХТ WiFi</name>
+			<description><![CDATA[<div>20ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.905504293929</longitude>
+				<latitude>47.92094160265492</latitude>
+				<altitude>1296.249216375957</altitude>
+				<heading>-7.536168427644744</heading>
+				<tilt>30.47753519063721</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>337.8941455368113</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.905778070238,47.92090280211923,1297.401645906546</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09566BD8F22F480AC4DF">
+			<name>Зайсан хилл ХТ WiFi</name>
+			<description><![CDATA[<div>5ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.9147419596287</longitude>
+				<latitude>47.88692343004011</latitude>
+				<altitude>1299.613072007563</altitude>
+				<heading>-0.07223883810659366</heading>
+				<tilt>40.5586674037927</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1038.606491259561</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>106.9158097098684,47.8858481313112,1323.770111678537</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="021FB79A452F481EB7E2">
+			<name>Дархан Теди ХТ WiFi</name>
+			<description><![CDATA[<div>6ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>105.9696535045169</longitude>
+				<latitude>49.4637946966605</latitude>
+				<altitude>706.305805842881</altitude>
+				<heading>0.0002032447571527627</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>324.1123045831046</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0B2DAFBE2C2F48288C6F</styleUrl>
+			<Point>
+				<coordinates>105.9695374952761,49.46380975727821,707.0663877327287</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01E45C4F712F482C61B4">
+			<name>Дархан Зах WiFi</name>
+			<description><![CDATA[<div>6ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>105.9415822484109</longitude>
+				<latitude>49.48629960555091</latitude>
+				<altitude>706.9898303585762</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1042.209124593646</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>105.9431366437889,49.48670157493534,716.70485952283</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="099F4DFE0F2F4860CB74">
+			<name>Сэлэнгэ Вокзал</name>
+			<description><![CDATA[<div>2ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>106.4550308016124</longitude>
+				<latitude>48.85688307181274</latitude>
+				<altitude>872.0815152609721</altitude>
+				<heading>-3.015362042409858e-08</heading>
+				<tilt>0.1076462678796803</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>653.5152670616662</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>106.4544967191914,48.85722183949526,874.4984718219226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="011E2EAF462F48A93046">
+			<name>Завхан БОАЖС WiFi</name>
+			<LookAt>
+				<longitude>96.8416718504146</longitude>
+				<latitude>47.74151107621644</latitude>
+				<altitude>1753.920026543348</altitude>
+				<heading>5.134147197824878</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>689.9278782734474</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_09FDB993322F48288C6B</styleUrl>
+			<Point>
+				<coordinates>96.84275632259302,47.74250307339057,1753.599856858483</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="00935CA2712F4851EB6C">
+		<name>Бусад</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="0A4F2EB8E22F485156C0">
+			<name>Хархорин МХС WiFi</name>
+			<description><![CDATA[<div>2ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>102.8152246885281</longitude>
+				<latitude>47.19317843202062</latitude>
+				<altitude>1476.871096321913</altitude>
+				<heading>0.01722443911394747</heading>
+				<tilt>2.592805645732353</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>350.5808217431695</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>102.8152888190853,47.19315538796582,1478.830570666095</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A32B6EEC62F48BF00B9">
+			<name>УБТЗГ WiFi </name>
+			<description><![CDATA[<div>6ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8919842131053</longitude>
+				<latitude>47.91270296486933</latitude>
+				<altitude>1283.952084869685</altitude>
+				<heading>-1.260309518261146</heading>
+				<tilt>12.53162742684726</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>282.1255502580971</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>106.8925712047804,47.91293500093372,1285.834713518304</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AF81240492F48BCF2B8">
+			<name>Билгүүн зул сан WiFi</name>
+			<description><![CDATA[<div>1ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>106.8513938377571</longitude>
+				<latitude>47.95267324395306</latitude>
+				<altitude>1440.703621048863</altitude>
+				<heading>-0.4121631779332458</heading>
+				<tilt>16.62616606228603</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>436.3990587038279</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0C0485AEAF2F48BD979C</styleUrl>
+			<Point>
+				<coordinates>106.8519300236646,47.95259111007654,1446.313163980891</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="0914E56CE22F29BDFFC5">
+		<name>Хаан банк салбар</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="00209E92C52F29BD0B45">
+			<name>ХаанБанк салбар Хархорин WiFi</name>
+			<LookAt>
+				<longitude>106.8362548263551</longitude>
+				<latitude>47.91029948649135</latitude>
+				<altitude>1274.893981312985</altitude>
+				<heading>-0.4286163003989221</heading>
+				<tilt>27.40993035091134</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>452.3139573042137</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.8366871388584,47.91029380709539,1277.022498350154</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EFB7173E02F29BF0DD7">
+			<name>ХаанБанк Зоос гоёл WiFi</name>
+			<LookAt>
+				<longitude>106.9111843644131</longitude>
+				<latitude>47.92240910017865</latitude>
+				<altitude>1298.996502851896</altitude>
+				<heading>-1.669912979654604</heading>
+				<tilt>38.11380344326945</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>252.2646437677395</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.911617967184,47.92237254981139,1300.732712193069</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0563141AB82F29C1DD64">
+			<name>ХаанБанк 13-р хороолол WiFi</name>
+			<LookAt>
+				<longitude>106.933281088448</longitude>
+				<latitude>47.91812057342333</latitude>
+				<altitude>1299.060653686632</altitude>
+				<heading>-6.133067334191717</heading>
+				<tilt>33.38492420353837</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>272.1612453397393</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9337455641801,47.91824451171374,1300.601149730258</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A09FB5C442F29C522D9">
+			<name>ХаанБанк Сансар салбар WiFi</name>
+			<LookAt>
+				<longitude>106.9415738223636</longitude>
+				<latitude>47.92454695883463</latitude>
+				<altitude>1324.907593749406</altitude>
+				<heading>-6.126247801878899</heading>
+				<tilt>33.38577486133227</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>444.1025974030345</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9422339853626,47.92498533378557,1328.722517217722</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="043DAC3B452F29C6E295">
+			<name>ХаанБанк салбар Хүчит шонхор WiFi</name>
+			<LookAt>
+				<longitude>106.9015928561041</longitude>
+				<latitude>47.94284255342582</latitude>
+				<altitude>1351.983191492081</altitude>
+				<heading>-0.01144537545991906</heading>
+				<tilt>41.77041891899302</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>782.6791609977954</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9020722953277,47.94260917222378,1352.218843019949</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="037B7291242F29CBB55D">
+			<name>ХаанБанк Нарантуул Салбар WiFi</name>
+			<LookAt>
+				<longitude>106.9479039060602</longitude>
+				<latitude>47.90921571293466</latitude>
+				<altitude>1297.285334475797</altitude>
+				<heading>-0.1791281463004979</heading>
+				<tilt>1.467869290272847</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>271.6807737050112</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.948124679482,47.90932125685624,1299.075010629713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05864D069C2F2D37AF64">
+			<name>ХаанБанк салбар Шөнийн зах</name>
+			<LookAt>
+				<longitude>106.9437003257452</longitude>
+				<latitude>47.90969461429633</latitude>
+				<altitude>1293.868742148156</altitude>
+				<heading>2.573557550853874</heading>
+				<tilt>30.24252906036786</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>251.0270063171265</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0E317299822F48288C71</styleUrl>
+			<Point>
+				<coordinates>106.9438362434725,47.90968304522898,1295.91278329233</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0571E2F0722F4C29E7B5">
+			<name>Хаан Банк Сонсголон Салбар WiFi</name>
+			<LookAt>
+				<longitude>106.7850289216542</longitude>
+				<latitude>47.8594287873081</latitude>
+				<altitude>1317.224117678664</altitude>
+				<heading>-8.03348096767783</heading>
+				<tilt>6.580846653529095</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>764.99868558858</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.7857330299897,47.85910499598178,1315.933301209112</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F658A01822F4C2C3495">
+			<name>Хаан Банк Нарантуул-2 Салбар</name>
+			<LookAt>
+				<longitude>106.8984145790052</longitude>
+				<latitude>47.94641678282235</latitude>
+				<altitude>1373.543263925448</altitude>
+				<heading>-5.78350517936208</heading>
+				<tilt>7.898381389023924</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1567.025811203931</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9023689124157,47.94697615007824,1362.283105869609</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F9DF1D26C2F4C2D72ED">
+			<name>Хаан Банк 11-р хороолол Салбар</name>
+			<LookAt>
+				<longitude>106.9257762272187</longitude>
+				<latitude>47.92712539815276</latitude>
+				<altitude>1305.063411658343</altitude>
+				<heading>-7.248920370070107</heading>
+				<tilt>6.812297922543919</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>544.501746232927</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9266109361173,47.927395027338,1306.720044051344</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0801618F3A2F4C31E7AA">
+			<name>Хаан Банк Ялалт Салбар WiFi</name>
+			<LookAt>
+				<longitude>106.9042309012441</longitude>
+				<latitude>47.92259597827497</latitude>
+				<altitude>1299.151225816139</altitude>
+				<heading>-7.268605565494612</heading>
+				<tilt>6.812228317270449</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>479.2328847526369</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9045751700694,47.922431724806,1299.706218764284</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="08EA48BF6A2F4C2FCE8A">
+			<name>Хаан Банк Сансар Салбар WiFi</name>
+			<LookAt>
+				<longitude>106.9416414890835</longitude>
+				<latitude>47.92306254325486</latitude>
+				<altitude>1319.480703831069</altitude>
+				<heading>-7.238177403561069</heading>
+				<tilt>6.812300575432081</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>546.9908349833713</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_32118E6A4E2F48288C6D</styleUrl>
+			<Point>
+				<coordinates>106.9425985025199,47.92334789354516,1322.545594276809</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="03F903E0102F48223867">
+		<name>Хороо болон ЗДТГ</name>
+		<styleUrl>#__managed_style_054C6840602F48288C65</styleUrl>
+		<Placemark id="001717FF6B2F481D481F">
+			<name>Булган Хишиг Өндөр ЗДТГ WiFi</name>
+			<description><![CDATA[<div>3ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>103.4298925116168</longitude>
+				<latitude>48.2936321787279</latitude>
+				<altitude>1309.888730217769</altitude>
+				<heading>2.518407746855291</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1128.089361632592</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>103.4318583132722,48.29591998505635,1312.935841106018</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0B799AB46B2F294351AD">
+			<name>БГД 23-хороо WiFi</name>
+			<description><![CDATA[<div>4ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>106.879280475617</longitude>
+				<latitude>47.93498795469722</latitude>
+				<altitude>1403.899667718693</altitude>
+				<heading>-3.178520202765363</heading>
+				<tilt>36.31050656645255</tilt>
+				<gx:fovy>34.9999999705127</gx:fovy>
+				<range>384.3211021039679</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>106.8800452817611,47.93506348015534,1409.817085971213</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03387C96FD2F48478988">
+			<name>Ховд ЗДТГ WiFi</name>
+			<description><![CDATA[<div>3ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>91.63834807651192</longitude>
+				<latitude>48.00399300033569</latitude>
+				<altitude>1397.082276512182</altitude>
+				<heading>-1.597447886921127e-05</heading>
+				<tilt>0.2937534917643148</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>579.2719000436773</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FBA5A624A2F48288C67</styleUrl>
+			<Point>
+				<coordinates>91.63904747197917,48.00406358362154,1399.451276582111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CD550BB6F2F48AA7A3D">
+			<name>Завхан ЗДТГ WiFi  </name>
+			<description><![CDATA[<div>8ш AP <br></div><div>1ш Switch<br></div>]]></description>
+			<LookAt>
+				<longitude>96.84241942362948</longitude>
+				<latitude>47.74237600395048</latitude>
+				<altitude>1752.686344623659</altitude>
+				<heading>5.134700457918458</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>691.1615291769704</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>96.84462378950276,47.74343825822123,1755.608289778485</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06379CE18D2F48919D84">
+			<name>Завхан Богд баг </name>
+			<description><![CDATA[<div>1ш AP<br></div>]]></description>
+			<LookAt>
+				<longitude>96.85339819745138</longitude>
+				<latitude>47.75018096876911</latitude>
+				<altitude>1778.908801291629</altitude>
+				<heading>0.0003130416697432195</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>637.1005203534878</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_085B5202962F48288C72</styleUrl>
+			<Point>
+				<coordinates>96.85430023817638,47.74984203199751,1781.033366218695</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
